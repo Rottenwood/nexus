@@ -1,0 +1,5 @@
+rottenwood_nexus:
+    resource: "@RottenwoodNexusBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
